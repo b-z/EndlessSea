@@ -2,15 +2,21 @@ EndlessSea
 ==========
 游戏相关
 ----------
-#### <i class="icon-hdd"></i> Play: https://zbww.github.io/EndlessSea
+#### Play: https://zbww.github.io/EndlessSea
 
-#### <i class="icon-file"></i> REPORT: https://zbww.github.io/EndlessSea/report.pdf
+#### REPORT: https://zbww.github.io/EndlessSea/report.pdf
 
 > **游戏说明:**
 
 > - 使用鼠标控制
 > - 吃**钻石**获得特殊技能
 > - 躲避**除了钻石以外**的飞行物体~
+
+> **特色:**
+
+> - 几乎所有元素都为js动态生成
+> - **全部**图形绘制由js代码完成，未使用任何外部图片
+
 
 开发人员:
 ----------
