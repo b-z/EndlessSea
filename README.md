@@ -6,7 +6,7 @@ EndlessSea
 
 #### REPORT: https://zbww.github.io/EndlessSea/report.pdf
 
-#### CODE: https://github.com/zbww/EndlessSea/js/main.js
+#### CODE: https://github.com/zbww/EndlessSea/blob/master/js/main.js
 
 > **游戏说明:**
 
