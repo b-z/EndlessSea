@@ -6,6 +6,8 @@ EndlessSea
 
 #### REPORT: https://zbww.github.io/EndlessSea/report.pdf
 
+#### CODE: https://github.com/zbww/EndlessSea/js/main.js
+
 > **游戏说明:**
 
 > - 使用鼠标控制
